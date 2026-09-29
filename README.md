@@ -9,7 +9,7 @@ Corso di Laurea Magistrale in **Ingegneria Informatica** — Università degli S
 | Nome | GitHub |
 |:------|:--------|
 | Antonio Caprio *(Referente)* | [@CapHello](https://github.com/CapHello) |
-| Gianluca Cinquegrana | [@DaAggiungere!!](https://github.com/) |
+| Gianluca Cinquegrana | [@giallo04](https://github.com/giallo04) |
 | Salvatore Di Costanzo | [@salvatoredc04](https://github.com/salvatoredc04) |
 | Alessandro Fontana | [@AlessandroFontana04](https://github.com/AlessandroFontana04) |
 | Christian Formicola | [@Darkessence97](https://github.com/Darkessence97) |
